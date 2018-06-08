@@ -1,5 +1,5 @@
 //Yiwen Sun
-//CS300
+//CS300 Term Project
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
